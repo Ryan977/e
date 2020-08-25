@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Latitude Design</title>
+    <link>https://alpaca-lion-hnl5.squarespace.com</link>
+    <pubDate>Tue, 25 Aug 2020 20:21:55 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>7293676</wp:author_id>
+      <wp:author_login>latituderbx@gmail.com</wp:author_login>
+      <wp:author_email>latituderbx@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Latitude Design]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Latitude]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Design]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Tue, 25 Aug 2020 20:34:01 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="5f45734749ff8b7c42533462" id="sections">
+
+    <section
+  class='page-section
+
+      layout-engine-section
+
+    background-width--full-bleed
+
+      section-height--large
+
+
+      content-width--medium
+
+    horizontal-alignment--center
+    vertical-alignment--middle
+     has-background
+    black'
+  data-section-id="5f45734749ff8b7c42533464"
+
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;backgroundImage&quot; : {
+    &quot;id&quot; : &quot;5f45751d41bef97b28b911b0&quot;,
+    &quot;recordType&quot; : 2,
+    &quot;addedOn&quot; : 1598387485916,
+    &quot;updatedOn&quot; : 1598387490285,
+    &quot;workflowState&quot; : 1,
+    &quot;publishOn&quot; : 1598387485916,
+    &quot;authorId&quot; : &quot;5f4572e0007d2b1cc10c2256&quot;,
+    &quot;systemDataId&quot; : &quot;1598387485922-NRUFX2UAG3VL78YT42KS&quot;,
+    &quot;systemDataVariants&quot; : &quot;1500x500,100w,300w,500w,750w,1000w,1500w&quot;,
+    &quot;systemDataSourceType&quot; : &quot;JPG&quot;,
+    &quot;filename&quot; : &quot;1500x500.jpeg&quot;,
+    &quot;mediaFocalPoint&quot; : {
+      &quot;x&quot; : 0.5,
+      &quot;y&quot; : 0.5,
+      &quot;source&quot; : 3
+    },
+    &quot;colorData&quot; : {
+      &quot;topLeftAverage&quot; : &quot;15001f&quot;,
+      &quot;topRightAverage&quot; : &quot;150020&quot;,
+      &quot;bottomLeftAverage&quot; : &quot;630094&quot;,
+      &quot;bottomRightAverage&quot; : &quot;620295&quot;,
+      &quot;centerAverage&quot; : &quot;3a0054&quot;,
+      &quot;suggestedBgColor&quot; : &quot;15001f&quot;
+    },
+    &quot;urlId&quot; : &quot;s052cnowq4sxdcsdu3yb7ul5djurwy&quot;,
+    &quot;title&quot; : &quot;&quot;,
+    &quot;body&quot; : null,
+    &quot;likeCount&quot; : 0,
+    &quot;commentCount&quot; : 0,
+    &quot;publicCommentCount&quot; : 0,
+    &quot;commentState&quot; : 2,
+    &quot;unsaved&quot; : false,
+    &quot;author&quot; : {
+      &quot;id&quot; : &quot;5f4572e0007d2b1cc10c2256&quot;,
+      &quot;displayName&quot; : &quot;Latitude Design&quot;,
+      &quot;firstName&quot; : &quot;Latitude&quot;,
+      &quot;lastName&quot; : &quot;Design&quot;,
+      &quot;avatarUrl&quot; : &quot;https://static1.squarespace.com/static/images/5f4572e1ad15ab7c64ff5e9d&quot;,
+      &quot;bio&quot; : &quot;&quot;,
+      &quot;avatarAssetUrl&quot; : &quot;https://static1.squarespace.com/static/images/5f4572e1ad15ab7c64ff5e9d&quot;
+    },
+    &quot;assetUrl&quot; : &quot;https://images.squarespace-cdn.com/content/v1/5f4572e33884ed314b1c9604/1598387485922-NRUFX2UAG3VL78YT42KS/ke17ZwdGBToddI8pDm48kPipDBN8EsXn0GX4VYEjDvAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dvZ3jQfF9Y_RaUFg7xfoXGgF5NMU0ljZvRJBf4K6SXuOZDqXZYzu2fuaodM4POSZ4w/1500x500.jpeg&quot;,
+    &quot;contentType&quot; : &quot;image/jpeg&quot;,
+    &quot;items&quot; : [ ],
+    &quot;pushedServices&quot; : { },
+    &quot;pendingPushedServices&quot; : { },
+    &quot;recordTypeLabel&quot; : &quot;image&quot;,
+    &quot;originalSize&quot; : &quot;1500x500&quot;
+  },
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--large&quot;,
+  &quot;customSectionHeight&quot; : 75,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--medium&quot;,
+  &quot;customContentWidth&quot; : 60,
+  &quot;sectionTheme&quot; : &quot;black&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+
+
+
+>
+  <div class="section-background">
+
+
+
+      <img alt="" data-src="https://images.squarespace-cdn.com/content/v1/5f4572e33884ed314b1c9604/1598387485922-NRUFX2UAG3VL78YT42KS/ke17ZwdGBToddI8pDm48kPipDBN8EsXn0GX4VYEjDvAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dvZ3jQfF9Y_RaUFg7xfoXGgF5NMU0ljZvRJBf4K6SXuOZDqXZYzu2fuaodM4POSZ4w/1500x500.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5f4572e33884ed314b1c9604/1598387485922-NRUFX2UAG3VL78YT42KS/ke17ZwdGBToddI8pDm48kPipDBN8EsXn0GX4VYEjDvAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dvZ3jQfF9Y_RaUFg7xfoXGgF5NMU0ljZvRJBf4K6SXuOZDqXZYzu2fuaodM4POSZ4w/1500x500.jpeg" data-image-dimensions="1500x500" data-image-focal-point="0.5,0.5" alt="1500x500.jpeg"  data-load="false" />
+      <div data-controller="SectionBackgroundOverlayController" data-image-overlay-opacity="0.15" class="section-background-overlay"></div>
+
+
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+
+
+
+    '
+  >
+    <div
+      class="content"
+
+    >
+
+
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5f45734749ff8b7c42533464"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5dcc7aeb62b3e0946fb8"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;">Latitude Design</h1><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large">Radically reshaping roaviation</p></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+
+    <section
+  class='page-section
+
+      layout-engine-section
+
+    background-width--full-bleed
+
+      section-height--medium
+
+
+      content-width--medium
+
+    horizontal-alignment--center
+    vertical-alignment--middle
+
+    black-bold'
+  data-section-id="5f45734749ff8b7c42533468"
+
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot; : 60,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--medium&quot;,
+  &quot;customContentWidth&quot; : 100,
+  &quot;sectionTheme&quot; : &quot;black-bold&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+
+
+
+>
+  <div class="section-background">
+
+
+
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+
+
+
+    '
+  >
+    <div
+      class="content"
+
+    >
+
+
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5f45734749ff8b7c42533468"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-bd73c69caae79389aad0"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="">About Us</p><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large">3 years ago when I joined roaviation, the options that existed for getting high-quality technology for your airline that makes an easy installation was minimal.  Here we are in 2020, and although there are many more options today, we all as an industry have hit a standstill. We haven't been shifting the window. We've been releasing products, but we haven't been revolutionizing things.  It's time for a change. Enjoy products ranging from airport improvement, to high-quality livery services for ridiculously low prices, quick-order graphics, and aviation products that can be adapted for any group.</p></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+
+    <section
+  class='page-section
+
+      layout-engine-section
+
+    background-width--full-bleed
+
+      section-height--small
+
+
+      content-width--narrow
+
+    horizontal-alignment--center
+    vertical-alignment--middle
+
+    black-bold'
+  data-section-id="5f45745789367a7ca1e2d27a"
+
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--small&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--narrow&quot;,
+  &quot;sectionTheme&quot; : &quot;black-bold&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+
+>
+  <div class="section-background">
+
+
+
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+
+
+
+    '
+  >
+    <div
+      class="content"
+
+    >
+
+
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5f45745789367a7ca1e2d27a"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-c0f40d7adc55c8a40945"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">Our Core Partners</h2></div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-7dc9c735bd2df7e9132c"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+
+
+
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:128.0px;"
+        >
+
+
+
+
+
+
+
+          <div
+
+                style="padding-bottom:100.0%;"
+
+              class="
+                image-block-wrapper
+
+
+
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+
+
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5f4572e33884ed314b1c9604/1598387338301-Y41H9RQX0XJ6NDC1DEJI/ke17ZwdGBToddI8pDm48kBhs0kXmJu3pAC_LFF99rKVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Yzk1n_2PASxxra1mFK8dAhgBi9rkphBx19QGFvjcgOqUiwTluuCfm6KfJQ3lI8LYQ/a_d864ac2c078b9270f753396ba45e2f0d.gif" alt="Air Alsafar" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5f4572e33884ed314b1c9604/1598387338301-Y41H9RQX0XJ6NDC1DEJI/ke17ZwdGBToddI8pDm48kBhs0kXmJu3pAC_LFF99rKVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Yzk1n_2PASxxra1mFK8dAhgBi9rkphBx19QGFvjcgOqUiwTluuCfm6KfJQ3lI8LYQ/a_d864ac2c078b9270f753396ba45e2f0d.gif" data-image="https://images.squarespace-cdn.com/content/v1/5f4572e33884ed314b1c9604/1598387338301-Y41H9RQX0XJ6NDC1DEJI/ke17ZwdGBToddI8pDm48kBhs0kXmJu3pAC_LFF99rKVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Yzk1n_2PASxxra1mFK8dAhgBi9rkphBx19QGFvjcgOqUiwTluuCfm6KfJQ3lI8LYQ/a_d864ac2c078b9270f753396ba45e2f0d.gif" data-image-dimensions="128x128" data-image-focal-point="0.5,0.5" alt="Air Alsafar" data-load="false" data-image-id="5f45748aa7feb51704aec458" data-type="image" />
+          </div>
+
+
+
+
+
+
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p style="text-align:center;white-space:pre-wrap;" class="">Air Alsafar</p></div>
+          </figcaption>
+
+
+        </figure>
+
+
+    </div>
+
+
+
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-0efc1499e0ebc59bb574"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+
+
+
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:128.0px;"
+        >
+
+
+
+
+
+
+
+          <div
+
+                style="padding-bottom:100.0%;"
+
+              class="
+                image-block-wrapper
+
+
+
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+
+
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5f4572e33884ed314b1c9604/1598387416383-ZRZDJK50DOEKAKXH76ZV/ke17ZwdGBToddI8pDm48kBhs0kXmJu3pAC_LFF99rKVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7eaDBaxyzPPG4B3J3_Z93rYLky5fjRrZeLmMK3F2aytfjfg4x4lXesDnM4MUpb-Vdw/image-asset.png" alt="O-Studios" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5f4572e33884ed314b1c9604/1598387416383-ZRZDJK50DOEKAKXH76ZV/ke17ZwdGBToddI8pDm48kBhs0kXmJu3pAC_LFF99rKVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7eaDBaxyzPPG4B3J3_Z93rYLky5fjRrZeLmMK3F2aytfjfg4x4lXesDnM4MUpb-Vdw/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/5f4572e33884ed314b1c9604/1598387416383-ZRZDJK50DOEKAKXH76ZV/ke17ZwdGBToddI8pDm48kBhs0kXmJu3pAC_LFF99rKVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7eaDBaxyzPPG4B3J3_Z93rYLky5fjRrZeLmMK3F2aytfjfg4x4lXesDnM4MUpb-Vdw/image-asset.png" data-image-dimensions="128x128" data-image-focal-point="0.5,0.5" alt="O-Studios" data-load="false" data-image-id="5f4574d86feeff0efaf4bbb5" data-type="image" />
+          </div>
+
+
+
+
+
+
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p style="text-align:center;white-space:pre-wrap;" class="">O-Studios</p></div>
+          </figcaption>
+
+
+        </figure>
+
+
+    </div>
+
+
+
+
+
+
+</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-6b9a42afd01698647c94"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+
+
+
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:128.0px;"
+        >
+
+
+
+
+
+
+
+          <div
+
+                style="padding-bottom:100.0%;"
+
+              class="
+                image-block-wrapper
+
+
+
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+
+
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5f4572e33884ed314b1c9604/1598387565664-588F5COZE5UQU4ZZLSC5/ke17ZwdGBToddI8pDm48kBhs0kXmJu3pAC_LFF99rKVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7eaDBaxyzPPG4B3J3_Z93rYLky5fjRrZeLmMK3F2aytfjfg4x4lXesDnM4MUpb-Vdw/image-asset.png" alt="Aero Core" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5f4572e33884ed314b1c9604/1598387565664-588F5COZE5UQU4ZZLSC5/ke17ZwdGBToddI8pDm48kBhs0kXmJu3pAC_LFF99rKVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7eaDBaxyzPPG4B3J3_Z93rYLky5fjRrZeLmMK3F2aytfjfg4x4lXesDnM4MUpb-Vdw/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/5f4572e33884ed314b1c9604/1598387565664-588F5COZE5UQU4ZZLSC5/ke17ZwdGBToddI8pDm48kBhs0kXmJu3pAC_LFF99rKVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7eaDBaxyzPPG4B3J3_Z93rYLky5fjRrZeLmMK3F2aytfjfg4x4lXesDnM4MUpb-Vdw/image-asset.png" data-image-dimensions="128x128" data-image-focal-point="0.5,0.5" alt="Aero Core" data-load="false" data-image-id="5f45756da7feb51704aef8f5" data-type="image" />
+          </div>
+
+
+
+
+
+
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p class="" style="white-space:pre-wrap;">Aero Core</p></div>
+          </figcaption>
+
+
+        </figure>
+
+
+    </div>
+
+
+
+
+
+
+</div></div></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
